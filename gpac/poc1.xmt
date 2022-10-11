@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- XMT-A Scene Dump -->
+<XMT-A xmlns="urn:mpeg:mpeg4:xmta:schema:2002" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:mpeg:mpeg4:xmta:schema:2002 xmt-a.xsd">
+ <Header>
+ <InitialObjectDescriptor objectDescriptorID="od193" binaryID="193" >
+  <Profiles audioProfileLevelIndication="48" visualProfileLevelIndication="48" sceneProfileLevelIndication="48" graphicsProfileLevelIndication="48" ODProfileLevelIndication="48" />
+  <Descr>
+   <esDescr>
+    <ES_Descriptor ES_ID="es8" binaryID="8" >
+     <decConfigDescr>
+      <DecoderConfigDescriptor objectTypeIndication="1" streamType="3" bufferSizeDB="3158064" maxBitrate="808464432" avgBitrate="808464432" >
+       <decSpecificInfo>
+        <BIFSConfig routeIDbits="12"        </decSpecificInfo>
+      </DecoderConfigDescriptor>
+     </decConfigDescr>
+     <slConfigDescr>
+      <SLConfigDescriptor >
+       <custom useAccessUnitStartFlag="true" useAccessUnitEndFlag="true" timeStampResolution="808464432" timeStampLength="32" >
+       </custom>
+      </SLConfigDescriptor>
+     </slConfigDescr>
+     <langDescr>
+      <DefaultDescriptor />
+     </langDescr>
+    </ES_Descriptor>
+   </esDescr>
+   <extDescr>
+    <DefaultDescriptor data="data:application/octet-string,%30%30%30%30" />
+   </extDescr>
+  </Descr>
+ </InitialObjectDescriptor>
+ </Header>
+ <Body>
+ <Replace>
+  <Scene USENAMES="true">
+   <ProtoDeclare name="" protoID="771">
+       <AcousticScene/>
+   </ProtoDeclare>
+   <Layer3D DEF="````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````">
+    <children>
+     <BitWrapper DEF="" type="-2122282623">
+      <node>
+       <AcousticScene DEF="N0" center="-1.33906e-23 4.75729e-38 -4.75708e-38" Size="2.76587e-40 3.85009e-37 3.85009e-37"/>
+      </node>
+     </BitWrapper>
+     <Background/>
+    </children>
+   </Layer3D>
+   <ROUTE DEF="`````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````" fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+  </Scene>
+ </Replace>
+<par begin="1">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="2">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="3">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="4">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="5">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="6">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="7">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="8">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="9">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="10">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="11">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="12">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="13">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="14">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="15">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="16">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="17">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="18">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="19">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="20">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="21">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="22">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="23">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="24">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="25">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="26">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="27">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="28">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="29">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="30">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="31">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="32">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="33">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="34">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="35">
+  <Insert>
+  <ROUTE fromNode="N0" fromField="reverbLevel" toNode="N0" toField="reverbLevel"/>
+</Insert> </par>
+<par begin="36">
+ </par>
+ </Body>
+</XMT-A>
